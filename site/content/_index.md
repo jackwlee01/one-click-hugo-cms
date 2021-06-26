@@ -18,6 +18,9 @@ intro:
 
 
     Here is a test
+
+
+    Here is more text
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
